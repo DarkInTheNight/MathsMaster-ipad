@@ -2,7 +2,6 @@
 
 Build-only copy of the MathsMaster app for Swift Playgrounds on the iPad. Nothing personal in here.
 
-- `MathsMaster.swiftpm`: the app (current build). **Open this one.**
-- `MM-test-0.swiftpm`: the original scaffold, kept as a known-good control.
+- `MathsMaster2.swiftpm`: the app (bundle ID `com.darkinthenight.mathsmaster2`). **Open this one.** It is the only project in the repo.
 
-Loop: Working Copy → Pull → open `MathsMaster.swiftpm` in Swift Playgrounds → Run.
+Loop: Working Copy → Pull → open `MathsMaster2.swiftpm` in Swift Playgrounds → Run.
