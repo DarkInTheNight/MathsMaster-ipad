@@ -13,7 +13,7 @@ enum InstallIdentity {
         return new
     }
 
-    /// e.g. "iPad · com.darkinthenight.mathsmaster"
+    /// e.g. "iPad · com.darkinthenight.mathsmaster2"
     @MainActor static var displayName: String {
         "\(UIDevice.current.model) · \(Bundle.main.bundleIdentifier ?? "unknown")"
     }
